@@ -16,6 +16,24 @@ body {
     background-color: #05010a;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Comic Sans MS';
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #05010a
+}
+
+#patch508 {
+    max-width: 1000px;
+    max-height: 10000px;
+    margin: 0 auto;
+    background-color: #05010a;
+}
+
 #wrapper {
     max-width: 1000px;
     max-height: 10000px;
@@ -84,4 +102,17 @@ article p {
 
 iframe {
     margin: 30px 225px;
+}
+
+div {
+    margin: 30px 225px;
+    background-color: #3e1d85;
+    text-align: center;
+}
+
+footer {
+    margin: 30px 350px;
+    margin-bottom: 100px;
+    background-color: #090414;
+    text-align: center;
 }
