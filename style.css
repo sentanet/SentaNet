@@ -59,25 +59,26 @@ nav {
 
 a.menu:hover {
     font-size: 20px;
-    color: #000000;
     color: white;
     background-color: #BDBDBD;
 }
 
 .active {
     font-size: 20px;
-    color: black;
+    color: white;
     background-color: #040404;
 }
 
 article {
     margin-top: 0px;
     margin-bottom: 30px;
+    color: white;
 }
 
 h1 {
     font-size: 30px;
     text-align: center;
+    color: white;
     margin: 0 10% 30px;
     background-color: #232323;
 }
@@ -85,6 +86,7 @@ h1 {
 article p {
     text-align: center;
     line-height: 30px;
+    color: white;
     font-size: 18px;
 }
 
@@ -95,6 +97,7 @@ iframe {
 div {
     margin: 30px 225px;
     background-color: #3e1d85;
+    color: white;
     text-align: center;
 }
 
@@ -102,6 +105,8 @@ footer {
     margin: 30px 350px;
     margin-bottom: 100px;
     background-color: #121212;
+    color: white;
     text-align: center;
 }
+
 
